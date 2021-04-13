@@ -1,10 +1,12 @@
 # 정수범 포트폴리오
 >캐치 프레이즈
+>사람의, 사람에 의한, 사람을 위한 코딩
 
 </br>
 
 ## :pushpin: Intro
-(여기에 자기 소개)
+안녕하세요.  
+웹 개발자를 꿈꾸는 개발자 정수범입니다.
 
 </br>
 
@@ -16,36 +18,33 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [goQuality](https://github.com/Integerous/goQuality)
->고퀄리티 개발 컨텐츠 공유 서비스 (개인 프로젝트)  
->개발 기간: 2019.2.18 ~ 2019.4.5  
+### 1. [블루밍](https://github.com/Jsim6342/Smart_Project)
+>머신러닝 기반 우울증 극복 지원 웹 서비스 (팀 프로젝트)  
+>개발 기간: 2020.10.20 ~ 2020.11.24  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>활용 기술:  
+>Java 8 / Servlet / JSP / SQL / HTML / CSS / Javascript / Python  
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/Jsim6342/Smart_Project) 참고
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (팀 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [오늘의 체험](https://github.com/Jsim6342/aT_hackathon)
+>6차 산업 통합 예약플랫폼 (팀 프로젝트)  
+>개발 기간: 2020.11.30 ~ 2020.12.6  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>활용 기술:  
+>Java 8 / Servlet / JSP / SQL / HTML / CSS / Javascript / Python  
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/Jsim6342/aT_hackathon) 참고
 
 ---
 
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
+### 3. [보스턴 집 값 예측하기](https://github.com/Jsim6342/Kaggle-project)
+>스마트인재개발원 캐글 프로젝트 (팀 프로젝트)  
+>개발 기간: 2020.9.18 ~ 2020.9.25  
 >  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>활용 기술:  
+>Python, 예측 모델(KNN, Decision Tree, Linear Model 등) 활용
 >  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>[프로젝트 상세 설명](https://github.com/Jsim6342/Kaggle-project) 참고
