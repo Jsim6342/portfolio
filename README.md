@@ -16,14 +16,14 @@
 </br>
 
 ## 📜 Projects
-### 1. [원티드 클론코딩]()
->A-Z까지 스스로 도전한 원티드 클론코딩 (팀 프로젝트)  
+### 1. [원티드 클론코딩](https://github.com/Jsim6342/wanted-clone)
+>기획부터 개발까지 원티드 클론코딩 (팀 프로젝트)  
 >개발 기간: 2020.10.30 ~ 2020.11.12  
 >  
 >활용 기술:  
->Java 11 / Spring Boot / Gradle / MySQL / JWT / AWS   
+>Java 11 / Spring Boot / Gradle / MySQL / JWT / AWS / RDS / Nginx
 >  
->[프로젝트 상세 설명]() 참고
+>[프로젝트 상세 설명](https://github.com/Jsim6342/wanted-clone) 참고
 
 ---
 
@@ -33,7 +33,7 @@
 >  
 >활용 기술:  
 >Java 11 / Spring Boot / Gradle / MySQL / Spring Data JPA / QueryDSL /
->H2 / JWT / OAuth2 / AWS 
+>H2 / JWT / OAuth2 / AWS / RDS / Nginx
 >  
 >[프로젝트 상세 설명](https://github.com/Team-Wordi/Wordi) 참고
 
